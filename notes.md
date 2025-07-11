@@ -34,3 +34,8 @@ Worked on OOP for Java
 - Learned how to check if email is valid on setter
 - Tried for 15 min
 - Get comfortable writing constructor, it is not same as creating new instance of User
+
+Worked on Reversing String and TwoSum Problem
+- Brute force method seems simple but again syntax issue
+- How do I return a pair without using ArrayList new int[]{i,j};
+- Reversing String can be done several way. string s = ch+ s;
