@@ -24,3 +24,13 @@ Later at night I tried to solve frequencyCounter
 - A lot of Java Syntax error but am getting there
 - Tried first 30 min writing on paper what is the plan
 - Reveiwed with chatGPT after 30min
+
+
+## July 11, 2025
+
+Worked on OOP for Java
+
+- Syntax is the issue
+- Learned how to check if email is valid on setter
+- Tried for 15 min
+- Get comfortable writing constructor, it is not same as creating new instance of User
