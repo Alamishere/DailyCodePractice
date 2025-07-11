@@ -18,3 +18,9 @@ Worked on PairSum Problem from Structy
 - Got solution from Claude/ChatGPT after trying on paper pseudoCode
 - Syntax error again
 - Was able to iterate but not able to compute result. **Try again**
+
+Later at night I tried to solve frequencyCounter
+- Took long time to understand
+- A lot of Java Syntax error but am getting there
+- Tried first 30 min writing on paper what is the plan
+- Reveiwed with chatGPT after 30min
