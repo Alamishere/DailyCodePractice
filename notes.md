@@ -34,3 +34,10 @@ Worked on OOP for Java
 - Learned how to check if email is valid on setter
 - Tried for 15 min
 - Get comfortable writing constructor, it is not same as creating new instance of User
+
+## July 12, 2025
+- Anagram can be solved by converting them to char
+- Put them in Char Array
+- Sort them and compare the Array
+- This gives n log n time complexity
+- HashMap solution gives O(n) time complexity 
