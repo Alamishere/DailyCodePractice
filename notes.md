@@ -35,9 +35,15 @@ Worked on OOP for Java
 - Tried for 15 min
 - Get comfortable writing constructor, it is not same as creating new instance of User
 
+Worked on Reversing String and TwoSum Problem
+- Brute force method seems simple but again syntax issue
+- How do I return a pair without using ArrayList new int[]{i,j};
+- Reversing String can be done several way. string s = ch+ s;
+
 ## July 12, 2025
 - Anagram can be solved by converting them to char
 - Put them in Char Array
 - Sort them and compare the Array
 - This gives n log n time complexity
 - HashMap solution gives O(n) time complexity 
+
