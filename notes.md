@@ -47,3 +47,9 @@ Worked on Reversing String and TwoSum Problem
 - This gives n log n time complexity
 - HashMap solution gives O(n) time complexity 
 
+## July 13, 2025
+- PairProduct was using Brute Force which is checking each number multiplying with following number
+- HashMap gives better time complexity
+- I had hardtime understanding the hashmap solution
+- I understand the idea but lot of syntaxes
+
