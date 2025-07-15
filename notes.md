@@ -53,8 +53,13 @@ Worked on Reversing String and TwoSum Problem
 - I had hardtime understanding the hashmap solution
 - I understand the idea but lot of syntaxes
 
-## July 13, 2025
+## July 14, 2025
 - mostFrequent Char is complicated than I expected
 - How do I know if I need another helping method?
 - Also need to know '\0'
 -  if (mostFrequent == '\0' || count.get(c) > count.get(mostFrequent)) this is very tricky, you get the most count not each count
+
+## July 15, 2025
+- Reversing a string but the way I thought was to iterate from the back which didnt work because I didn't know where I was going 
+- Putting a String for reversed and prepending
+- Although this is n^2 solution
