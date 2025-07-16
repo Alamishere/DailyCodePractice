@@ -63,3 +63,10 @@ Worked on Reversing String and TwoSum Problem
 - Reversing a string but the way I thought was to iterate from the back which didnt work because I didn't know where I was going 
 - Putting a String for reversed and prepending
 - Although this is n^2 solution
+
+## July 16, 2025
+- Intersection problem I was able to do Brute Force way and the 4th test was giving error
+- I was doing O(n^2) for time complexity
+- Also I was using hashmap, put keys and index value making it complicated
+- Learned about hashset which is just only Value/Key
+- The idea is to use a HashSet to store the values from listA, then loop through listB and check if each element exists in the set. If it does, add it to the result
