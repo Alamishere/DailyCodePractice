@@ -70,3 +70,9 @@ Worked on Reversing String and TwoSum Problem
 - Also I was using hashmap, put keys and index value making it complicated
 - Learned about hashset which is just only Value/Key
 - The idea is to use a HashSet to store the values from listA, then loop through listB and check if each element exists in the set. If it does, add it to the result
+
+## July 17, 2025
+- Exclusive item was fun. I realized if I can just add those List in a set and then add those set togather then I would get exclusive value
+- But it was not that simple. I had to create another hashset for the order.
+- Then remove from each other and add the left over.
+- This needs another practice
