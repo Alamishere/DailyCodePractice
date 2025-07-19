@@ -76,3 +76,11 @@ Worked on Reversing String and TwoSum Problem
 - But it was not that simple. I had to create another hashset for the order.
 - Then remove from each other and add the left over.
 - This needs another practice
+
+
+## July 18, 2025
+- I know hashset doesn't take duplicates
+- I had issue how do I check if two list have dupliates or not
+- I converetd items to Set but then went blank
+- I think it is the practice that I need
+- It checks whether the size of the List and the Set are the same. If they are, it means all elements are unique and returns true; otherwise, it returns false.
