@@ -84,3 +84,7 @@ Worked on Reversing String and TwoSum Problem
 - I converetd items to Set but then went blank
 - I think it is the practice that I need
 - It checks whether the size of the List and the Set are the same. If they are, it means all elements are unique and returns true; otherwise, it returns false.
+
+## July 19th, 2025
+- I had Capital one interview where the question was related to Kadane's algorithm
+- I did Leetcode Maximum Subarray(53) problem
