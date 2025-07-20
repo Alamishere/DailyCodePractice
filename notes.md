@@ -88,3 +88,5 @@ Worked on Reversing String and TwoSum Problem
 ## July 19th, 2025
 - I had Capital one interview where the question was related to Kadane's algorithm
 - I did Leetcode Maximum Subarray(53) problem
+- I also did intersection with duplicates
+- This was hard to do, I need to find a keyword that reminds me when i can use the helper method
