@@ -90,3 +90,9 @@ Worked on Reversing String and TwoSum Problem
 - I did Leetcode Maximum Subarray(53) problem
 - I also did intersection with duplicates
 - This was hard to do, I need to find a keyword that reminds me when i can use the helper method
+
+## July 20th, 2025
+- Drained with Code today
+- Recursion but not sure if I fully get it. This needs review
+- Did Leetcode 11 Container with Most Water as well
+- It was tough to understand
