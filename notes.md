@@ -96,3 +96,8 @@ Worked on Reversing String and TwoSum Problem
 - Recursion but not sure if I fully get it. This needs review
 - Did Leetcode 11 Container with Most Water as well
 - It was tough to understand
+
+## July 21st, 2025
+- I did python today instead of Java
+- I have an interview tomorrow afternoon
+- Not adding anything today since I am focusing on interview preparation
