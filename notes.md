@@ -101,3 +101,8 @@ Worked on Reversing String and TwoSum Problem
 - I did python today instead of Java
 - I have an interview tomorrow afternoon
 - Not adding anything today since I am focusing on interview preparation
+
+## July 22nd, 2025
+- I worked on 1957. Delete Characters to Make Fancy String
+- I thought of HashMap but ended up looking the answer
+- I have to append using Stringbuilder
