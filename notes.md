@@ -2,7 +2,7 @@
 
 Worked on Java problems: Palindrome, FizzBuzz, Pairs, and PrimeNumbers from Structy.
 
-Faced challenges with Java syntax, especially in Palindrome and Pairs.  
+- Faced challenges with Java syntax, especially in Palindrome and Pairs.  
 - Learned about `Character.isLetterOrDigit()` and `Character.toLowerCase()`  
 - Pairs used 2D arrays, which are new to me
 
@@ -106,3 +106,12 @@ Worked on Reversing String and TwoSum Problem
 - I worked on 1957. Delete Characters to Make Fancy String
 - I thought of HashMap but ended up looking the answer
 - I have to append using Stringbuilder
+
+## July 23rd, 2025
+- Took a different turn than Structy.
+- Did Leetcode sliding window problem which is related to HashSet
+- Longest Repeating Substring- lc3
+- I thought of Hashmap, but that didnt work
+- Watched multiple times Nikhil Lohia's explanation
+- Tried to write it but watched the code
+- Rewrote again without help for git
