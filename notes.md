@@ -115,3 +115,9 @@ Worked on Reversing String and TwoSum Problem
 - Watched multiple times Nikhil Lohia's explanation
 - Tried to write it but watched the code
 - Rewrote again without help for git
+
+## July 24th, 2025
+- I did recursion today
+- It took me a while to understand how it works
+- I will do more practice
+- Write a method sumNumbersRecursive that takes in a list of numbers and returns the sum of all the numbers in the list. All elements will be integers. Solve this recursively.
