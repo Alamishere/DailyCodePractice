@@ -121,3 +121,9 @@ Worked on Reversing String and TwoSum Problem
 - It took me a while to understand how it works
 - I will do more practice
 - Write a method sumNumbersRecursive that takes in a list of numbers and returns the sum of all the numbers in the list. All elements will be integers. Solve this recursively.
+- I wrote factorial without looking it up
+
+## July 25th, 2025
+- Had headache but did this sum of String problem anyway
+- It was similar to the first recursion issue
+- Java Sublist takes time to understand
