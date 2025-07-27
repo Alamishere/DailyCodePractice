@@ -127,3 +127,7 @@ Worked on Reversing String and TwoSum Problem
 - Had headache but did this sum of String problem anyway
 - It was similar to the first recursion issue
 - Java Sublist takes time to understand
+
+## July 26th, 2025
+- Solved one problem but I wasnt focused much
+- I did it anyway
