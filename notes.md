@@ -137,3 +137,7 @@ Worked on Reversing String and TwoSum Problem
 - Had to watch video on how to get consecutive order
 - I was thinking of Binary tree but that won't give O(n) solution
 - It is copy paste solution, I surely need more practice
+
+## July 28th, 2025
+- Palindrome using recursion
+- This sublist in Java is annoying
