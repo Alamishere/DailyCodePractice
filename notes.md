@@ -131,3 +131,9 @@ Worked on Reversing String and TwoSum Problem
 ## July 26th, 2025
 - Solved one problem but I wasnt focused much
 - I did it anyway
+
+## July 27th, 2025
+- Solved Leetcode Problem 128
+- Had to watch video on how to get consecutive order
+- I was thinking of Binary tree but that won't give O(n) solution
+- It is copy paste solution, I surely need more practice
