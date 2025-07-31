@@ -141,3 +141,7 @@ Worked on Reversing String and TwoSum Problem
 ## July 28th, 2025
 - Palindrome using recursion
 - This sublist in Java is annoying
+
+## July 30th, 2025
+- Did longest string in a sentence
+- An easy one after ACL surgery
