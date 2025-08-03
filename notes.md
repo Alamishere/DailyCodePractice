@@ -145,3 +145,8 @@ Worked on Reversing String and TwoSum Problem
 ## July 30th, 2025
 - Did longest string in a sentence
 - An easy one after ACL surgery
+
+## August 2nd, 2025
+- Started doing linkedList
+- In Java I feel it is too much work
+- I was getting confused on Head and CurrentNode
