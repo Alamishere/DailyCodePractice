@@ -150,3 +150,8 @@ Worked on Reversing String and TwoSum Problem
 - Started doing linkedList
 - In Java I feel it is too much work
 - I was getting confused on Head and CurrentNode
+
+## August 3rd, 2025
+- Sum of LinkedList are simpler
+- You just add current node to the next node
+- put the sum in a variable called Sum
