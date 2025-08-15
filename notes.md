@@ -142,9 +142,25 @@ Worked on Reversing String and TwoSum Problem
 - Palindrome using recursion
 - This sublist in Java is annoying
 
+<<<<<<< HEAD
 ## August 15th, 2025
 - Back at it after a break cause I had knee surgery
 - FIboncacci Sequence
 - Redid Reverse string
 - Redid if the number is prime
 - 
+=======
+## July 30th, 2025
+- Did longest string in a sentence
+- An easy one after ACL surgery
+
+## August 2nd, 2025
+- Started doing linkedList
+- In Java I feel it is too much work
+- I was getting confused on Head and CurrentNode
+
+## August 3rd, 2025
+- Sum of LinkedList are simpler
+- You just add current node to the next node
+- put the sum in a variable called Sum
+>>>>>>> 9b1d8d79df9ce1642502ee36786341859d8b5125
