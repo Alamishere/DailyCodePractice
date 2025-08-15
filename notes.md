@@ -141,3 +141,10 @@ Worked on Reversing String and TwoSum Problem
 ## July 28th, 2025
 - Palindrome using recursion
 - This sublist in Java is annoying
+
+## August 15th, 2025
+- Back at it after a break cause I had knee surgery
+- FIboncacci Sequence
+- Redid Reverse string
+- Redid if the number is prime
+- 
