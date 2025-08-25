@@ -155,3 +155,9 @@ Worked on Reversing String and TwoSum Problem
 - Sum of LinkedList are simpler
 - You just add current node to the next node
 - put the sum in a variable called Sum
+
+## August 25th, 
+- Worked on Multiple Structy
+- Mainly focused on LinkedList reversal
+- There were finding index, finding node value as well
+- Good practice for interview
