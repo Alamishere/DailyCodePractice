@@ -161,3 +161,9 @@ Worked on Reversing String and TwoSum Problem
 - Mainly focused on LinkedList reversal
 - There were finding index, finding node value as well
 - Good practice for interview
+
+## September,1st
+- Worked on String
+- String manipulation on Hackerrank
+- Looked into Java String API
+- Given a string,s, and an integer,k, complete the function so that it finds the lexicographically smallest and largest substrings of length 
