@@ -4,7 +4,7 @@
 Output: "GeeksForGeeks"
 Explanation: Adding the new String to orignal String at the index given.
  */
-package GeeksForGeeks.String;
+package DailyCodePractice.GeeksForGeeks.String;
 public class insertString {
     public static void main(String[] args) {
         String originalString = "GeeksGeeks";
