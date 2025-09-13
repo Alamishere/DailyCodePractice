@@ -156,7 +156,7 @@ Worked on Reversing String and TwoSum Problem
 - You just add current node to the next node
 - put the sum in a variable called Sum
 
-## August 25th, 
+## August 25th 
 - Worked on Multiple Structy
 - Mainly focused on LinkedList reversal
 - There were finding index, finding node value as well
@@ -167,3 +167,8 @@ Worked on Reversing String and TwoSum Problem
 - String manipulation on Hackerrank
 - Looked into Java String API
 - Given a string,s, and an integer,k, complete the function so that it finds the lexicographically smallest and largest substrings of length 
+
+## September, 13th
+- Started with basic String manipulation
+- Substring is tricky. originalString.substring(5) means starting at index 5 until the end
+- split divides a string into parts wherever the specified delimiter (such as a space) occurs.
