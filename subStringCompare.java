@@ -8,7 +8,7 @@ string: the string ' + "\n" + ' where and are the two substrings
 Input Format
 The first line contains a string denoting .
 The second line contains an integer denoting .*/
-
+package DailyCodePractice;
 import java.util.Scanner;
 
 public class subStringCompare {
