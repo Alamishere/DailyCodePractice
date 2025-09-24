@@ -172,3 +172,8 @@ Worked on Reversing String and TwoSum Problem
 - Started with basic String manipulation
 - Substring is tricky. originalString.substring(5) means starting at index 5 until the end
 - split divides a string into parts wherever the specified delimiter (such as a space) occurs.
+
+## September, 24th
+- Worked on Contains Duplicate for Integer and String
+- Solved Cracking the Coding Interview, Chapter 1(String and Array), first problem without Algorithm
+- It is safe to say if need to find duplicate I can think of Hashset
