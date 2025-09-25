@@ -177,3 +177,8 @@ Worked on Reversing String and TwoSum Problem
 - Worked on Contains Duplicate for Integer and String
 - Solved Cracking the Coding Interview, Chapter 1(String and Array), first problem without Algorithm
 - It is safe to say if need to find duplicate I can think of Hashset
+
+## September, 25th
+- URLify where add %20 
+- Palindrome Permutation is little tricky for me
+- I had to spent long time on Check Palindrome
