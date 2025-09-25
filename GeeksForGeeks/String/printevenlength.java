@@ -1,4 +1,4 @@
-package GeeksForGeeks.String;
+package DailyCodePractice.GeeksForGeeks.String;
 /*Input: s = "This is a java language"
 Output: This is  java language
 Explanation: All the elements with the length even are printed. 
