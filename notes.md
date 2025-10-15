@@ -182,3 +182,8 @@ Worked on Reversing String and TwoSum Problem
 - URLify where add %20 
 - Palindrome Permutation is little tricky for me
 - I had to spent long time on Check Palindrome
+
+## October, 15th
+- Did two sum using hashmap
+- First time did 121. Best Time to Buy and Sell Stock
+- Kadanes algorithm looks simple but needs practice
