@@ -187,3 +187,10 @@ Worked on Reversing String and TwoSum Problem
 - Did two sum using hashmap
 - First time did 121. Best Time to Buy and Sell Stock
 - Kadanes algorithm looks simple but needs practice
+
+## October, 24th
+- Had hell week of 5 interviews in a single week
+- I am back doing Structy/Leetcode
+- Did Has SubArray Sum from Structy
+- It needs more practice to get the optimized solution
+- This isn't sliding window or two pointers solution
