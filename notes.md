@@ -194,3 +194,11 @@ Worked on Reversing String and TwoSum Problem
 - Did Has SubArray Sum from Structy
 - It needs more practice to get the optimized solution
 - This isn't sliding window or two pointers solution
+
+## October , 28th
+- Valid Parantheses
+- Stack concept will help to solve it
+
+## October , 31st
+- Merge two sorted linked list
+- I tried recursion and that was really fun
