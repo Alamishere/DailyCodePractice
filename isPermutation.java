@@ -1,3 +1,4 @@
+package DailyCodePractice;
 import java.util.Arrays;
 
 public  class isPermutation{

@@ -202,8 +202,3 @@ Worked on Reversing String and TwoSum Problem
 ## October , 31st
 - Merge two sorted linked list
 - I tried recursion and that was really fun
-
-## November 5th
-- Major Codings on Binary Search
-- Worked on Trees
-- Also Blind 75 lists

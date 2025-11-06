@@ -1,3 +1,4 @@
+package DailyCodePractice;
 public class hasUniqueChars {
     public static boolean isUnique(String str) {
         if (str == null) return true;

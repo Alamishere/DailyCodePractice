@@ -1,21 +1,12 @@
 package DailyCodePractice;
 
- class ListNode {
-     int val;
-      ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-  }
-
-
 public class MergeTwoSortedArray {
     public ListNode MergeTwoList(ListNode list1, ListNode list2){
         ListNode returnNode = new ListNode(Integer.MIN_VALUE);
         ListNode headNode = returnNode;
 
         while(list1 != null && list2 != null){
-            if(list1.val <= list2.val){
+            if(list1.value <= list2.value){
                 returnNode.next = list1;
                 list1= list1.next;
             }else{
@@ -34,7 +25,7 @@ public class MergeTwoSortedArray {
     }
     public static void printList(ListNode head) {
         while (head != null) {
-            System.out.print(head.val + " ");
+            System.out.print(head.value + " ");
             head = head.next;
         }
         System.out.println();

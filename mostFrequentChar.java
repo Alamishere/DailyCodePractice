@@ -8,16 +8,15 @@ Source.mostFrequentChar("mississippi"); // -> 'i'
 import java.util.HashMap;
 
 public class mostFrequentChar {
-    private static HashMap <Character,Integer> charCount (String s){
-        HashMap<Character,Integer> Count = new HashMap<>();
-        for(char ch: s.toCharArray()){
-            if(!Count.containsKey(ch)){
-                Count.put(ch,0);
+    private static HashMap<Character,Integer> charCount(String s){
+        HashMap<Character,Integer> count= new HashMap<>();
+        for(char c: s.toCharArray()){
+            if(count.get(c)== null){
+                count.put(c,0);
             }
-            Count.put(ch,Count.get(ch)+1);
+            count.put(c, count.get(c)+1);
         }
-        return Count;
-
+        return count;
     }
 
 
@@ -31,5 +30,11 @@ public class mostFrequentChar {
         }
         return mostFrequent;
       }
+
+      public static void main(String[] args) {
+    System.out.println(mostFrequentChars("hello"));
+    System.out.println(mostFrequentChars("abc")); 
+    System.out.println(mostFrequentChars("mississippi"));
+}
     
 }

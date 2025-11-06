@@ -1,3 +1,4 @@
+package DailyCodePractice;
 public class URLify {
 
     public static void urlify(char[] str, int trueLength) {
